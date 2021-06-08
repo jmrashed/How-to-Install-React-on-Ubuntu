@@ -18,9 +18,9 @@ This document can be referred by anyone who wants to install latest nodejs on Ub
 # 1.Install nodejs - Setup PPA
 To get you a more recent version of Node.js installed on ubuntu is to add a PPA (personal package archive) maintained by NodeSource. Open terminal and run below commands
 
-    ```
+     
     cd ~
     curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
 
 
-    ```
+     
