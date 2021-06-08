@@ -23,4 +23,9 @@ To get you a more recent version of Node.js installed on ubuntu is to add a PPA 
     curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
 
 
-     
+Run the downloaded script using below command
+     sudo bash nodesource_setup.sh
+
+# 2.Install 
+    Run `sudo apt-get install nodejs -y` to install 
+
